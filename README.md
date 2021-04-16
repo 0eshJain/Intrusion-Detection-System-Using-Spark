@@ -5,6 +5,7 @@ Keywords: Spark, Resilient Distributed Dataset (RDD), Parallel Computing
 We use PySpark to implement the algorithms for detecting intrusive behaviors inside a network log. 
 The data set is a 4 GB compressed TCP data dump provided by the International Knowledge Discovery and Data Mining Tools Competition (KDD cup 99).
 Data dictionary and important notes on the data set can be found on http://kdd.ics.uci.edu/databases/kddcup99/task.html
+
 The classification of the KDD cup 99 mainly targets four types of attacks:
 1) DOS: denial-of-service, e.g. syn flood;
 2) R2L: unauthorized access from a remote machine, e.g. guessing password;
