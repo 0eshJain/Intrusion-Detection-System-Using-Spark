@@ -1,4 +1,7 @@
 # Intrusion-Detection-System-Using-Spark
+
+Keywords: Spark, Resilient Distributed Dataset (RDD), Parallel Computing
+
 We use PySpark to implement the algorithms for detecting intrusive behaviors inside a network log. 
 The data set is a 4 GB compressed TCP data dump provided by the International Knowledge Discovery and Data Mining Tools Competition (KDD cup 99). 
 The classification of the KDD cup 99 mainly targets four types of attacks:
